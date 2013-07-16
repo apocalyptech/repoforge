@@ -9,7 +9,7 @@
 
 Summary: concise attribute rewriting
 Name: perl-HTML-RewriteAttributes
-Version: 0.03
+Version: 0.05
 Release: 1%{?dist}
 License: Artistic/GPL
 Group: Applications/CPAN
@@ -70,5 +70,8 @@ easier. See the source for methods you can override.
 %exclude %{perl_vendorarch}/auto/*/*/.packlist
 
 %changelog
+* Tue Jul 16 2013 Christopher J Kucera <pez@apocalyptech.com> - 0.05-1
+- Update to version 0.05-1.
+
 * Wed Jul 28 2010 Steve Huff <shuff@vecna.org> - 0.03-1
 - Initial package.
