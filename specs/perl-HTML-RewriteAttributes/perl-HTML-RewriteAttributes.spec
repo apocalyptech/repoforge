@@ -15,7 +15,7 @@ License: Artistic/GPL
 Group: Applications/CPAN
 URL: http://search.cpan.org/dist/HTML-RewriteAttributes/
 
-Source: http://search.cpan.org/CPAN/authors/id/S/SA/SARTAK/HTML-RewriteAttributes-%{version}.tar.gz
+Source: http://search.cpan.org/CPAN/authors/id/T/TS/TSIBLEY/HTML-RewriteAttributes-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 
 BuildArch: noarch
